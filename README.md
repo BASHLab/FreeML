@@ -1,17 +1,15 @@
 # FreeML: Memory-efficient Energy-adaptive Inference of Pre-Trained Models on Batteryless Embedded Systems
 
-This is the repo associated to the paper `Memory-efficient Energy-adaptive Inference of Pre-Trained Models on Batteryless Embedded Systems`, to be published at EWSN 2024.
+This is the repo associated to the paper `Memory-efficient Energy-adaptive Inference of Pre-Trained Models on Batteryless Embedded Systems`, published at EWSN 2024.
 
 ## To cite this code:
 
 ```bibtex
-@misc{farina2024memoryefficientenergyadaptiveinferencepretrained,
-      title={Memory-efficient Energy-adaptive Inference of Pre-Trained Models on Batteryless Embedded Systems}, 
-      author={Pietro Farina and Subrata Biswas and Eren Yıldız and Khakim Akhunov and Saad Ahmed and Bashima Islam and Kasım Sinan Yıldırım},
-      year={2024},
-      eprint={2405.10426},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2405.10426}, 
+@inproceedings{farina2024memory,
+  title={Memory-efficient Energy-adaptive Inference of Pre-Trained Models on Batteryless Embedded Systems},
+  author={Farina, Pietro and Biswas, Subrata and Y{\i}ld{\i}z, Eren and Akhunov, Khakim and Ahmed, Saad and Islam, Bashima and Yildirim, Kasim Sinan and others},
+  booktitle={EWSN'24: Proceedings of the 2023 International Conference on embedded Wireless Systems and Networks},
+  year={2024},
+  organization={Association for Computing Machinery}
 }
 ```
